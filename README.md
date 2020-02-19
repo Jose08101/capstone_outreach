@@ -4,6 +4,9 @@ Project Outreach is a platform that strengthens the bond between immigrant paren
 
 Users should care about project Outreach as it is a proper outlet for parents to be able to communicate with institutions in a fashion they are comfortable with. Our goal behind this project is to make sure the children of these parents excel in academia which will be the result of them being more involved. From research, most parents are capable of working a smartphone so our approach would be to create a mobile app which makes it easy for everybody involved. 
 
+Our problem statement:
+How do we connect low income immigrant parents and academic institutions in the greater Seattle area, so that it raises parents’ awareness on their children’s (7-8th grade) school life, which would help their children advance academically?
+
 Supporting Images ![https://photos.google.com/u/3/photo/AF1QipMAUENfyHkSvjcQ0Bs0udOGeqmiVhte9P8Rc4Yy](src)
 
 
@@ -19,30 +22,6 @@ Contact Information:
 You can use the [editor on GitHub](https://github.com/Jose08101/capstone_outreach/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
