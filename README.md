@@ -8,11 +8,10 @@ Users should care about project Outreach as it is a proper outlet for parents to
 ## Problem Statement
 How do we connect low income immigrant parents and academic institutions in the greater Seattle area, so that it raises parents’ awareness on their children’s (7-8th grade) school life, which would help their children advance academically?
 
-Supporting Images ![https://photos.app.goo.gl/FqwWWG2qrRjN3zR57](src)
+Supporting Images ![First support image](https://photos.app.goo.gl/FqwWWG2qrRjN3zR57)(src)
 
 
-Image of Solution ![https://photos.google.com/share/AF1QipOHr6mEHb2qKgMDBLKX8sLienswqElISmPw8GiAlzGYVfoUQnFlQ3UOIaS2pzUA4A?key=Q0k3S3lseloyWDJ0MW5fc3p6Z1pZTkhnLTV0NlBn](src)
-
+Image of Solution ![solution](https://photos.google.com/share/AF1QipOHr6mEHb2qKgMDBLKX8sLienswqElISmPw8GiAlzGYVfoUQnFlQ3UOIaS2pzUA4A?key=Q0k3S3lseloyWDJ0MW5fc3p6Z1pZTkhnLTV0NlBn)
 
 
 ### Team Members
